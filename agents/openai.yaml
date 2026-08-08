@@ -1,0 +1,4 @@
+interface:
+  display_name: "WinDirStat CLI"
+  short_description: "Scan and export disk usage with WinDirStat"
+  default_prompt: "Use $windirstat-cli-skill to scan a Windows folder and export the results safely."
